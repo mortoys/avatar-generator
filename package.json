@@ -1,0 +1,10 @@
+{
+  "name": "avatar-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mortoys/avatar-generator",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.3.0"
+  }
+}
