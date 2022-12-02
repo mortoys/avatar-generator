@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-0f27be94","chunk-2d21ddf9"],{"9f7b":function(n,d,c){"use strict";c.r(d),d["default"]={id:10140,new:!1,locked:!1,cover:c("d2c8"),tags:()=>c.e("chunk-2d21d045").then(c.bind(null,"d003"))}},d2c8:function(n,d,c){n.exports=c.p+"img/10140.3d3bc656.png"}}]);
+//# sourceMappingURL=chunk-0f27be94.717bae66.js.map
